@@ -1,0 +1,68 @@
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+Content-Length: 76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2024-12-27T153054.200.json
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+Content-Length: 76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2024-12-27T152806.200.json
+
+###
+
+POST http://localhost:63040/content/course/list
+Content-Type: application/json
+Content-Length: 76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2024-12-27T152617.500.json
+
+###
+
+POST http://localhost:63040/course/list
+Content-Type: application/json
+Content-Length: 76
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "auditStatus": "202004",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2024-12-27T152553.404.html
+
+###
+
