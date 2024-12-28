@@ -1,3 +1,351 @@
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T235803.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232740.400.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232501.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232310.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 333
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232159.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 324
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232131.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 323
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201000",
+  "price": 0,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T232036.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 323
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201000",
+  "price": 0,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T231952.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 323
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201000",
+  "price": 0,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-28T231924.500.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-28T213117.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-28T213038.404.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-28T212942.404.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-28T212818.404.json
+
+###
+
+GET http://localhost:63040/course-category/tree-nodes
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-28T212756.404.html
+
+###
+
 POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
 Content-Type: application/json
 Content-Length: 76
