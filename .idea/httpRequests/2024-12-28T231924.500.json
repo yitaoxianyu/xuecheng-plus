@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-12-28T15:19:24.480+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "",
+  "path": "/content/course"
+}
