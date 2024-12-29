@@ -1,5 +1,275 @@
 POST http://localhost:63040/content/course
 Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T165946.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T165757.400.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T165517.404.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T165502.404.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 316
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": ,
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T164930.400.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T164918.400.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 322
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "test",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T164901.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 322
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "test",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T164714.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+Content-Length: 318
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "charge": "201001",
+  "price": 99,
+  "originalPrice":55,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "dadad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "dad",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2024-12-29T164608.400.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
 Content-Length: 333
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
 Accept-Encoding: br, deflate, gzip, x-gzip
