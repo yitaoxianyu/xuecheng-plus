@@ -54,9 +54,7 @@ public class CourseBaseInfoImpl implements CourseBaseInfoService {
     @Transactional
     @Override
     public CourseBaseInfoDto createCourse(AddCourseDto addCourseDto, Long companyId) {
-        //这里加上参数校验
-
-
+        //todo:这里加上参数校验
         CourseBase courseBase = new CourseBase();
         BeanUtils.copyProperties(addCourseDto,courseBase);
         courseBase.setCompanyId(companyId);
@@ -89,10 +87,8 @@ public class CourseBaseInfoImpl implements CourseBaseInfoService {
             throw new RuntimeException("收费字段不能为空");
         }
 
-        if(charge.equals("201001")){
-            if(courseMarket.getCharge() == null || courseMarket.getPrice() <= 0){
-                throw new RuntimeException("课程收费不合理");
-            }
+        if(courseMarket.getCharge() == null || courseMarket.getPrice() <= 0){
+            throw new RuntimeException("课程收费不合理");
         }
 
         CourseMarket selectedById = courseMarketMapper.selectById(courseMarket.getId());
