@@ -11,6 +11,6 @@ import java.util.List;
 @Setter
 public class CourseCategoryTreeDto extends CourseCategory implements java.io.Serializable{
 
-    List<CourseCategoryTreeDto> childTreeNodes;
+    List<CourseCategoryTreeDto> childrenTreeNodes;
 
 }

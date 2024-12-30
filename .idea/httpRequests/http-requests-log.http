@@ -1,3 +1,36 @@
+GET http://localhost:63040/content/course/40
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-29T180735.200.json
+
+###
+
+PUT http://localhost:63040/content/course/40
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-29T180720.500.json
+
+###
+
+PUT http://localhost:63040/course/40
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-29T180707.404.html
+
+###
+
 POST http://localhost:63040/content/course
 Content-Type: application/json
 Content-Length: 318

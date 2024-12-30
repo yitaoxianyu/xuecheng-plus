@@ -30,10 +30,10 @@ public class CourseCategoryImpl implements CourseCategoryService{
                 result.add(item);
             }else{
                 CourseCategoryTreeDto parentNode = map.get(item.getParentid());
-                if(parentNode.getChildTreeNodes() == null) {
-                    parentNode.setChildTreeNodes(new ArrayList<>());
+                if(parentNode.getChildrenTreeNodes() == null) {
+                    parentNode.setChildrenTreeNodes(new ArrayList<>());
                 }
-                parentNode.getChildTreeNodes().add(item);
+                parentNode.getChildrenTreeNodes().add(item);
             }
         });
         return result;

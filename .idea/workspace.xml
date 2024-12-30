@@ -7,13 +7,16 @@
     <list default="true" id="3d8d8a7b-971e-476d-83c6-f4d337ec5c3c" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2024-12-29/info.2024-12-29-15.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2024-12-29/info.2024-12-29-15.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/src/main/java/com/xuecheng/base/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/src/main/java/com/xuecheng/base/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/ContentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/ContentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/target/classes/com/xuecheng/base/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/target/classes/com/xuecheng/base/exception/GlobalExceptionHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CourseBaseInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CourseBaseInfoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/target/classes/com/xuecheng/content/api/CourseBaseInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/target/classes/com/xuecheng/content/api/CourseBaseInfoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/AddCourseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/AddCourseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseCategoryTreeDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseCategoryTreeDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/CourseBaseInfoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/CourseBaseInfoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/CourseBaseInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/CourseBaseInfoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/target/classes/com/xuecheng/content/service/CourseBaseInfoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/target/classes/com/xuecheng/content/service/CourseBaseInfoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/target/classes/com/xuecheng/content/service/CourseBaseInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/target/classes/com/xuecheng/content/service/CourseBaseInfoService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +92,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "HTTP 请求.generated-requests | #1.executor": "Run",
     "HTTP 请求.generated-requests | #2.executor": "Run",
+    "HTTP 请求.generated-requests | #3.executor": "Run",
     "HTTP 请求.generated-requests中的所有.executor": "Run",
     "HTTP 请求.xc-content-api | #1.executor": "Run",
     "JUnit.XuechengPlusContentServiceApplicationTests.testCourseBaseMapper.executor": "Run",
@@ -161,7 +165,7 @@
     <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="运行单个请求">
       <method v="2" />
     </configuration>
-    <configuration name="xc-content-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/xc-content-api.http" requestIdentifier="#1" runType="运行单个请求">
+    <configuration name="generated-requests | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" requestIdentifier="#3" runType="运行单个请求">
       <method v="2" />
     </configuration>
     <configuration name="ContentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -192,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP 请求.generated-requests | #2" />
         <item itemvalue="Spring Boot.ContentApplication" />
         <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="HTTP 请求.generated-requests | #3" />
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
         <item itemvalue="HTTP 请求.generated-requests | #1" />
-        <item itemvalue="HTTP 请求.xc-content-api | #1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +228,8 @@
       <workItem from="1735385399282" duration="2944000" />
       <workItem from="1735389310438" duration="11728000" />
       <workItem from="1735438633218" duration="24000" />
-      <workItem from="1735455947273" duration="6512000" />
+      <workItem from="1735455947273" duration="11849000" />
+      <workItem from="1735530603876" duration="3692000" />
     </task>
     <servers />
   </component>

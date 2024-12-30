@@ -6,6 +6,7 @@ import com.xuecheng.base.model.PageParams;
 import com.xuecheng.base.model.PageResult;
 import com.xuecheng.content.model.dto.AddCourseDto;
 import com.xuecheng.content.model.dto.CourseBaseInfoDto;
+import com.xuecheng.content.model.dto.EditCourseDto;
 import com.xuecheng.content.model.dto.QueryCourseParamsDto;
 import com.xuecheng.content.model.po.CourseBase;
 import com.xuecheng.content.service.CourseBaseInfoService;
@@ -14,8 +15,6 @@ import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
-
-import javax.validation.Valid;
 
 
 @RestController
@@ -39,6 +38,20 @@ public class CourseBaseInfoController {
     public CourseBaseInfoDto addCourse(@RequestBody @Validated(ValidateGroup.insert.class) AddCourseDto addCourseDto) {
         Long companyId = 1L;
         return courseBaseInfoServiceImpl.createCourse(addCourseDto,companyId);
+    }
+
+    @GetMapping("/course/{courseId}")
+    @ApiOperation(value = "查询单个课程")
+    public CourseBaseInfoDto queryCourseBase(@PathVariable Long courseId){
+        return courseBaseInfoServiceImpl.queryCourseBase(courseId);
+    }
+
+    @PutMapping("/course")
+    @ApiOperation(value = "更新课程")
+    public CourseBaseInfoDto editCourseBase(@RequestBody @Validated(ValidateGroup.update.class)EditCourseDto editCourseDto){
+        // todo : 这里将会取出企业id确认身份
+        Long companyId = 1232141425L;
+        return courseBaseInfoServiceImpl.editCourseBase(editCourseDto, companyId);
     }
 
 }
